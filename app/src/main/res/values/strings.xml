@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PomodoroTask</string>
+    <string name="start_text">Start</string>
+
+</resources>
